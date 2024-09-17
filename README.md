@@ -8,7 +8,7 @@ Iniciante em programação, aprendendo JS
 
 #### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERIKFIORINI&repo=Idade&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-- [Projeto 1](https://github.com/ERIKFIORINI/projeto1) - Descrição curta do projeto 1.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=E-commerce&repo=Idade&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
