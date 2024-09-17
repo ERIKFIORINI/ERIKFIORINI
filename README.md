@@ -7,7 +7,8 @@ Iniciante em programação, aprendendo JS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERIKFIORINI)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projetos
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=ERIKFIORINI&repo=Idade&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=githubjavascriptebac&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Linguagens utilizadas
 
