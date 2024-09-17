@@ -15,6 +15,7 @@ Iniciante em programação, aprendendo JS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERIKFIORINI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Contatos
+## Me encontre no Instagram
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik.fiorini/)
+
