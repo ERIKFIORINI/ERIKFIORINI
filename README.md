@@ -21,3 +21,6 @@ Iniciante em programação, aprendendo JS
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik_fiorini/)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/usuario/projeto?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/usuario/projeto?style=for-the-badge)
+
