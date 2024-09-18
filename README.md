@@ -21,6 +21,8 @@ Iniciante em programação, aprendendo JS
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik_fiorini/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/usuario/projeto?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/usuario/projeto?style=for-the-badge)
+## Habilidades
+
+- **Front-end**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+- **Back-end**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge)
 
