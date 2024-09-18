@@ -16,10 +16,11 @@ Iniciante em programação, aprendendo JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERIKFIORINI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+> "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
+> 
 ## Me encontre no Instagram
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik_fiorini/)
 
-> "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
+
 
