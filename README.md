@@ -7,7 +7,7 @@ Iniciante em programação, aprendendo JS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERIKFIORINI)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERIKFIORINI&repo=Merdado-digital&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERIKFIORINI&repo=Merdado-Digital&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projeto em Destaque!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERIKFIORINI&repo=E-commerce&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
