@@ -1,7 +1,7 @@
 ## Olá 👋
 
 ###### Sobre o Erik
-Iniciante em programação, aprendendo JS
+Iniciante em programação, Aprendendo algumas linguagens, C, JS, Python.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERIKFIORINI)](https://github.com/anuraghazra/github-readme-stats)
